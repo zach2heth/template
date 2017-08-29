@@ -2,14 +2,11 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Depth/Breadth-First-Search Riddle Solver
 permalink: projects/vacay
-date: 2015
+date: Spring 2017
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - LISP
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
