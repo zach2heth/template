@@ -24,6 +24,6 @@ After finishing the logic I started to work on the graphics. To my suprise, I en
 
 Overall there were several unexpected problems that required changes in multiple classes that could have been avoided with extensive and proper planning. It gave me an appreciation for the work and attention to detail that goes into making a GUI. I think the game itself is terribly unbalanced at times, or can easily result in stalemates. I've only ever played it against myself though, so I don't know what others would think of it.
 
-You can find the source code [on GitHub](https://github.com/zach2heth/OthelloWar).
+You can find the source code on [GitHub](https://github.com/zach2heth/OthelloWar).
 
 
