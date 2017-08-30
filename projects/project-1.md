@@ -9,7 +9,11 @@ labels:
   - Java
 summary: A 2-4 player game, inspired by the rules for the board game 'Othello'.
 ---
-
+ <div class="ui small rounded images">
+  <img class="ui image" src="../images/Ex3.png">
+  <img class="ui image" src="../images/Ex2.jpg">
+  <img class="ui image" src="../images/Ex1.jpg">
+</div>
 
 OthelloWar is played out on a 2-D grid with a turn-by-turn format. Each team can do four things in one turn: Create units, move/use units, move 'guard blocks', and perform a color change. When a colored block is placed on the grid, if there exists the same colored block in the same row or column, all blocks in between the two are changed to that color. The objective is to move units next to an opposing team's objective blocks and either capture or destroy them. When all of a teams objective blocks are taken away, that team loses. The last team with an obective block in their control wins.
 
