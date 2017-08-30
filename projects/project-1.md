@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Ex3.png
 title: OthelloWar
 permalink: projects/micromouse
 date: 2016
