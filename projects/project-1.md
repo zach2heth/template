@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Ex3.png
 title: OthelloWar
-permalink: projects/micromouse
+permalink: projects/OthelloWar
 date: 2016
 labels:
   - Java
