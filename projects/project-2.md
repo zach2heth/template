@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/A-Star.png
 title: A-Star Puzzle Solver
 permalink: projects/vacay
 date: 2017
