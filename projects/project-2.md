@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Depth/Breadth-First-Search Riddle Solver
+title: Depth&Breadth-First-Search Riddle Solver
 permalink: projects/vacay
 date: Spring 2017
 labels:
