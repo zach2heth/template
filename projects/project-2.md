@@ -7,6 +7,7 @@ permalink: projects/vacay
 date: 2017
 labels:
   - LISP
+  - AI
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
