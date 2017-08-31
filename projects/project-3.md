@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/D3.png
-title: Account Database
+title: Records Database
 permalink: projects/database
 date: 2016
 labels:
