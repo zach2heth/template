@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/A-Star.png
 title: A-Star Puzzle Solver
-permalink: projects/vacay
+permalink: projects/A-Star
 date: 2017
 labels:
   - LISP
