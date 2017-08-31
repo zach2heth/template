@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-Before college, I had no experience coding. I had no idea what programming entailed, and wasn’t sure what I was getting myself into. I didn’t want to start my first semester as a computer science major behind all of my classmates, who I assumed would be intelligent computer geniuses. I knew I would be taking a Java class and thought I should start learning it. I found free, interactive tutorials on Code Academy (add link), and saw the Javascript track. I figured it was probably the same thing as Java, and tried it out.
+Before college, I had no experience coding. I had no idea what programming entailed, and wasn’t sure what I was getting myself into. I didn’t want to start my first semester as a computer science major behind all of my classmates, who I assumed would be intelligent computer geniuses. I knew I would be taking a Java class and thought I should start learning it. I found free, interactive tutorials on [Code Academy](https://www.codecademy.com/learn), and saw the Javascript track. I figured it was probably the same thing as Java, and tried it out.
 
 Two years later and looking back, I now know that Javascript and Java, are in fact, two completely different languages. They are both functional languages, and so the same type of logic can be applied to both. However, Javascript is much less technical and intimidating to learn. Variable data types don’t need to be defined, and arrays can hold multiple types of data. Trying to implement a data structure with that capability in Java would be monstrous challenge (unless there’s something like that in the API that I just don’t know about). 
 
