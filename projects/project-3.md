@@ -1,60 +1,28 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+image: images/D1.png
+title: Account Database
+permalink: projects/database
+date: 2016
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - C
+  - C++
+summary: A program for storing and manipulating simple account records
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/D1.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+This was an assignment for ICS 212, a C and C++ programming class.
+It is a small database where a user can add records and store them for later retrieval. The records are objects that are stored in double linked list. The records can be modified and deleted. When the program closes, the records are stored in a text file, that upon starting up again, should automatically load into the database as record objects. Originaly the project was done in C, but the professor's assignment was to recreate the same project in C++. The majority of the problems I discuss are ones I faced while coding it in C. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+The first part completed was the user-interface. I had to take in user input and reprompt the user if there was an invalid input. The difficult part was thinking of what was unacceptable for specific prompts, and how to catch them. For example, when it asks for an account number, I had to make sure that it would not take in letters. There are some unresolved issues with the buffer. With the account number, if the user inputs numbers followed by letters, it will store the numbers and use the remaining letters for the name attribute. It's not supposed to accept negative numbers either, but it does.
 
-<hr>
+<img class="ui image" src="{{ site.baseurl }}/images/D2.png">
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+Next I did the functions for adding, deleting, and modifying records. This was one of the most challenging parts of the project because there are several cases that I had to identify and consider. There are several pointers that change when adding and deleting records due to the linked list structure. 
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+The final part was reading from and writing records to a text file. Reading from a file was also a challenge because there was an indefinite number of records that needed to be added, and some records have more lines in them (due to the address) than others. 
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source code [here](https://github.com/zach2heth/Account212).
 
