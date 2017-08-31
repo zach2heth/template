@@ -7,6 +7,7 @@ permalink: projects/OthelloWar
 date: 2016
 labels:
   - Java
+  - E.Z. Graphics
 summary: A 2-4 player game, inspired by the rules for the board game 'Othello'.
 ---
  <div class="ui large rounded images">
