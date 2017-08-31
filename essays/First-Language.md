@@ -16,8 +16,8 @@ Two years later and looking back, I now know that Javascript and Java, are in fa
 But probably the best thing about Javascript is printing to the console. 
 
 ```
-Java - System.out.print();
-Javascript - console.log();
+Java       | System.out.print();
+Javascript | console.log();
 ```
 
 That’s a 5 character-input difference! Considering how frequently I like to print things for testing, that will add up quick.
