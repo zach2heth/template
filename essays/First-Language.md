@@ -18,7 +18,9 @@ But probably the best thing about Javascript is printing to the console.
 System.out.print vs console.log
 
 That’s a 5 character-input difference! Considering how frequently I like to print things for testing, that will add up quick.
-Although that doesn’t quite beat C++ with cout
+Although that doesn’t quite beat C++ with 
+
+cout
 
 Relearning Javascript in my software engineering class, ICS 314, has been a slightly nostalgic programming trip. I understand it a lot more, and have even picked up on some new things. There are built in functions that allow arrays to act as either a stack, queue, or a combination of the two. It’s interesting, being able to add properties to objects during run time. That’s a very exciting idea to me, and if I have the time (and motivation), I might play around with that feature on my own. I think Javascript is a great language to be learning in class because of how relatively easy the concepts are to grasp. When working with others, the focus will be on the problem we are trying to solve, rather than on understanding the language itself. 
 
