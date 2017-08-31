@@ -11,7 +11,7 @@ labels:
 summary: A program for storing and manipulating simple account records
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/D3.png">
+<img class="ui image" src="{{ site.baseurl }}/images/D1.png">
 
 This was an assignment for ICS 212, a C and C++ programming class.
 It is a small database where a user can add records and store them for later retrieval. The records are objects that are stored in double linked list. The records can be modified and deleted. When the program closes, the records are stored in a text file, that upon starting up again, should automatically load into the database as record objects. Originaly the project was done in C, but the professor's assignment was to recreate the same project in C++. The majority of the problems I discuss are ones I faced while coding it in C. 
