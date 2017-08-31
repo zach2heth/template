@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Ex3.png
+image: images/Ex4.png
 title: OthelloWar
 permalink: projects/OthelloWar
 date: 2016
