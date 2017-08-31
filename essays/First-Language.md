@@ -14,7 +14,9 @@ Before college, I had no experience coding. I had no idea what programming entai
 Two years later and looking back, I now know that Javascript and Java, are in fact, two completely different languages. They are both functional languages, and so the same type of logic can be applied to both. However, Javascript is much less technical and intimidating to learn. Variable data types don’t need to be defined, and arrays can hold multiple types of data. Trying to implement a data structure with that capability in Java would be monstrous challenge (unless there’s something like that in the API that I just don’t know about). 
 
 But probably the best thing about Javascript is printing to the console. 
+
 System.out.print vs console.log
+
 That’s a 5 character-input difference! Considering how frequently I like to print things for testing, that will add up quick.
 Although that doesn’t quite beat C++ with cout
 
