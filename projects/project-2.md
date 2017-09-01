@@ -8,7 +8,7 @@ date: 2017
 labels:
   - LISP
   - AI
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: Implementation of the A-Star Algorithm in LISP to find solutions to puzzles.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/A-Star.png">
