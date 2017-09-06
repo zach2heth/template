@@ -8,7 +8,7 @@ labels:
   - Stack Overflow
 ---
 
-Unfortunately, I don’t know everything. Frequently, I run into problems while learning a new language or programming tool, and am not sure why. It could be syntactic, or I might be ignorant to an underlying concept I haven’t heard of. In either case, I usually end up asking a classmate, or looking at Stack Overflow [include link] to see if anyone has had a similar problem. I’ve found that the more specific a question is, the more likely it is to get a clear and direct answer. Broad questions tend to be met with attempts to specify such as “What do you mean?” and, “Assuming that you mean [blank]…” 
+Unfortunately, I don’t know everything. Frequently, I run into problems while learning a new language or programming tool, and am not sure why. It could be syntactic, or I might be ignorant to an underlying concept I haven’t heard of. In either case, I usually end up asking a classmate, or looking at [Stack Overflow](https://stackoverflow.com/questions) to see if anyone has had a similar problem. I’ve found that the more specific a question is, the more likely it is to get a clear and direct answer. Broad questions tend to be met with attempts to specify such as “What do you mean?” and, “Assuming that you mean (blank)…” 
 
 Erin Raymond created an excellent post about asking smart questions, and how to get more out of others. Here is a link [] for those interested. Some of the points he brings up are to show that you’ve made an effort to answer your own question, be precise about what you’ve done so far, don’t be presumptuous, and make your goal clear. 
 
