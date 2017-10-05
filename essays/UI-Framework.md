@@ -11,7 +11,9 @@ labels:
 ---
 
 <h2>**Disclaimer** I suck at web design</h2>
-Until two weeks ago, I knew almost nothing about HTML, CSS, and web design. To be honest, I still barely know anything. However, for the past week, I have been practicing recreating the visual aspects of different websites, like [Club Penguin](https://clubpenguinrewritten.pw/), using Semantic UI. [What I've been able to make](http://htmlpreview.github.io/?https://github.com/zach2heth/clubpenguin/blob/gh-pages/clubpenguin/index.html) is not nearly as clean, but it's not a bad start.
+Until two weeks ago, I knew almost nothing about HTML, CSS, and web design. To be honest, I still barely know anything. 
+
+However, for the past week, I have been practicing recreating the visual aspects of different websites, like [Club Penguin](https://clubpenguinrewritten.pw/), using Semantic UI. [What I've been able to make](http://htmlpreview.github.io/?https://github.com/zach2heth/clubpenguin/blob/gh-pages/clubpenguin/index.html) is not nearly as clean, but it's not a bad start.
 
 <h2>What is a User Interface Framework</h2>
 
