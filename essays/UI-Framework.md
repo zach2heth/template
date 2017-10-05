@@ -25,9 +25,11 @@ UI Frameworks provide classes that can be used for CSS styling. They often come 
 Here is something that happened somewhat often while I was working with it
 <blockquote>
 "Hmmm, how do I make a button that's large and red? I'll just try.."
+
 ```
-<div class="ui large red button">...<div>
+<div class="ui large red button">...</div>
 ```
+
 "Wow it worked!"
 </blockquote>
 Since the keywords to remember are obvious, it makes learning the terminology relatively easy.
