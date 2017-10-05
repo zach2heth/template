@@ -23,7 +23,7 @@ UI Frameworks provide classes that can be used for CSS styling. They often come 
 
 [Semantic UI](https://semantic-ui.com/) is a specific UI Framework. What really sets it apart from other UI Frameworks (or at least, this is what the Semantic UI people claim) is their natural language class names. The class names are extremely intuitive, which means if you were to forget the name of a class, you can take a guess based on what it's function is.
 Here is something that happened somewhat often while I was working with it
-<blockquote>
+
 "Hmmm, how do I make a button that's large and red? I'll just try.."
 
 ```
@@ -31,7 +31,7 @@ Here is something that happened somewhat often while I was working with it
 ```
 
 "Wow it worked!"
-</blockquote>
+
 Since the keywords to remember are obvious, it makes learning the terminology relatively easy.
 It provides things like different types of menus, icons, search-bars, and much-much more.
 
