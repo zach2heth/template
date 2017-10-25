@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: I Have No Idea How This Works
+title: I have no idea how this works
 date: 2017-10-24
 labels:
   - Meteor
