@@ -8,9 +8,6 @@ labels:
   - Privacy
 ---
 
-<h2>Software Engineering Ethics</h2>
-
-
 <h3>What are "ethics"</h3>
 
 Ethics are the morale issues surrounding a particular issue, and how someone should proceed to handle a given situation. An important part of ethics is knowing who or what is at stake in a given scenario. For example, it could be the loss of life, money for a company, or maybe privacy of an individual. Comparing what is at stake and deciding what is more important is the primary concern of an ethical dilemma. To say whether or not an action is ethical, is to decide if it is morally acceptable behavior. That is subject to each individual's perception of the world, and philosophy. However, there can still be a general consensus for a particular issue.
