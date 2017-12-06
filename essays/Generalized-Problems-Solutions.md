@@ -32,7 +32,7 @@ The product of _abc_  and _zy_ is equal to
   a00 * y = ay00
   a00 * z0 = az000
 
-  cy + cz0 + by0 + bz00 + ay00 + az000 = answer
+  cy + cz0 + by0 + bz00 + ay00 + az000 = abc * zy
 
 
 ```
