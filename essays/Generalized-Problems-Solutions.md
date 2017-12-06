@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Generalized Problems and Solutions
-date: 2017-12-5
+date: 2017-12-05
 labels:
   - Design Patterns
 ---
