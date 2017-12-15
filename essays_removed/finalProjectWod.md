@@ -1,6 +1,6 @@
 ---
-layout: essay
-type: essay
+layout: 
+type:
 title: "Final Project Idea"
 date: 2017-10-19
 labels:

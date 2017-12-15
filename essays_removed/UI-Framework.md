@@ -1,6 +1,6 @@
 ---
-layout: essay
-type: essay
+layout: 
+type:
 title: I do not like web design
 date: 2017-10-05
 labels:

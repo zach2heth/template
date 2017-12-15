@@ -1,6 +1,6 @@
 ---
-layout: essay
-type: essay
+layout: 
+type:
 title: "Meteor Gotchas"
 date: 2017-10-19
 labels:
@@ -12,4 +12,4 @@ The first problem I had with Meteor was installing it. It would not intall prope
 
 Meteor itself is confusing. There are several files in several folders, that all have a different purpose. In order to test HTML or Javascript code on the website, the appropriate files need to be imported in either the client-side, server-side, or both. While working on a digits WOD, I forgot to import my contacts.js file. I did not look at the webpage until I finished the code, and so I was not sure why nothing was showing up. I had checked several of the different client and server side files with the import statements and it looked exactly like Professor Johnson's files. I had to look up an outside tutorial to finally figure out what I had done wrong. I honestly do not remember what I did to fix the issue because I didn't really understand the solution.
 
-Even after completing half of the digits wods, I don't feel like I understand much about Meteor. I don't even understand what it is that I don't understand. 
+Even after completing half of the digits wods, I don't feel like I understand much about Meteor. I don't even understand what it is that I don't understand.

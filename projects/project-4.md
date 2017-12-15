@@ -12,7 +12,7 @@ labels:
 summary: Website for playing math games with and against UH students
 ---
 
-<img class="ui medium rounded image" src="../images/finished-landing-page.png">
+<img class="ui large rounded image" src="../images/finished-landing-page.png">
 
 This was the final group project in ICS 314, Software Engineering.
 
@@ -20,7 +20,7 @@ This was the final group project in ICS 314, Software Engineering.
 The assignment was to create a website that solves some problem, or benefits students at the University of Hawaii at Manoa. The goal of Math Rush was to create a website which lets users create accounts and play math games relevant to their current math courses. Their scores would be saved and put on a leaderboard for others to see. Some games would be multiplayer, allowing students to play against one another.
 <h3>Development & Contributions</h3>
 
-<img class="ui small right floated rounded image" src="../images/game-page.png">
+<img class="ui medium right floated rounded image" src="../images/game-page.png">
 
 The other members for this project were [Neel Kotak](https://neelkotak13.github.io/) and [Yujin Kim](https://yjkim97.github.io/). We used [Bowfolios](https://bowfolios.github.io/) as are starting code base, which uses [Meteor](https://www.meteor.com/). It being hosted online through Meteor Galaxy
 

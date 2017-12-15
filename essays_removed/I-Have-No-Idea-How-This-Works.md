@@ -1,6 +1,6 @@
 ---
-layout: essay
-type: essay
+layout: 
+type:
 title: I have no idea how this works
 date: 2017-10-24
 labels:
