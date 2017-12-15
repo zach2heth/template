@@ -26,7 +26,7 @@ The other members for this project were [Neel Kotak](https://neelkotak13.github.
 
 I helped create the html and templates for the [Game-Types page](http://mathrush.meteorapp.com/gametypes), [Profile page](http://mathrush.meteorapp.com/userprofile), and the game[http://mathrush.meteorapp.com/game1] itself. I was not able to complete the game in time for this project's deadline. It has some functionality when ran locally on my computer, but we were not able to see that when it was deployed to galaxy.
 
-<h3></h3>
+<h3>What I learned</h3>
 
 Even though the final product does not have much functionality, I was able to learn a lot from doing this project. This was my first time using several features of Git and GitHub. I have a better understanding of branches, and how they allow multiple people to work on the same code base at once. Working on creating the game forced me to learn a lot about Meteor, and what is possible using templates. I see how Javascript and Html from different files can be used together.
 
