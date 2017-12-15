@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "",
-      "postalCode": "9682?",
+      "postalCode": "96825",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "",
+      "name": "Security",
       "keywords": [
       ]
     }
@@ -54,7 +54,10 @@
         "Java",
         "Javascript",
         "Common Lisp",
-        "Prolog"
+        "Prolog",
+        "Html",
+        "Semantic UI",
+        "Meteor"
       ]
     },
     {
@@ -64,7 +67,8 @@
         "MacOS",
         "Git/GitHub",
         "Atom",
-        "Eclipse"
+        "Eclipse",
+        "IntelliJ IDEA"
       ]
     }
   ],
@@ -76,7 +80,7 @@
       "startDate": "2015-08-21",
       "endDate": "Present",
       "gpa": "3.59",
-      "courses": [ 
+      "courses": [
       ]
     }
   ],
@@ -93,7 +97,7 @@
       ]
     },
   ],
-  
+
   "awards": [
     {
       "title": "AFROTC Type 7 Scholarship",
