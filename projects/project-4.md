@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/finished-landing-page.png
+image: images/Math-rush.png
 title: Math Rush
 permalink: projects/Math-Rush
 date: 2017
