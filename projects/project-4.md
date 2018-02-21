@@ -24,7 +24,7 @@ The assignment was to create a website that solves some problem, or benefits stu
 
 The other members for this project were [Neel Kotak](https://neelkotak13.github.io/) and [Yujin Kim](https://yjkim97.github.io/). We used [Bowfolios](https://bowfolios.github.io/) as are starting code base, which uses [Meteor](https://www.meteor.com/). It being hosted online through Meteor Galaxy
 
-I helped create the html and templates for the [Game-Types page](http://mathrush.meteorapp.com/gametypes), [Profile page](http://mathrush.meteorapp.com/userprofile), and the game[http://mathrush.meteorapp.com/game1] itself. I was not able to complete the game in time for this project's deadline. It has some functionality when ran locally on my computer, but we were not able to see that when it was deployed to galaxy.
+I helped create the html and templates for the [Game-Types page](http://mathrush.meteorapp.com/gametypes), [Profile page](http://mathrush.meteorapp.com/userprofile), and [the game](http://mathrush.meteorapp.com/game1) itself. I was not able to complete the game in time for this project's deadline. It has some functionality when ran locally on my computer, but we were not able to see that when it was deployed to galaxy.
 
 <h3>What I learned</h3>
 
