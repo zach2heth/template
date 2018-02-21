@@ -79,12 +79,23 @@
       "studyType": "B.S.",
       "startDate": "2015-08-21",
       "endDate": "Present",
-      "gpa": "3.59",
+      "gpa": "3.62",
       "courses": [
       ]
     }
   ],
   "work": [
+    {
+      "company": "CSCOPE",
+      "position": "Research Assistant",
+      "website": "https://sites.google.com/a/hawaii.edu/uh-uas-projects/research/c-scope-hacking-mems-sesnors?pli=1",
+      "startDate": "2018-01",
+      "endDate": "Present",
+      "summary": "Assist in conducting experiments for drone research",
+      "highlights": [
+        ""
+      ]
+    },
     {
       "company": "Teddy's Bigger Burger",
       "position": "Cashier",
