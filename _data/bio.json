@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "Security",
+      "name": "Arduino",
       "keywords": [
       ]
     }
@@ -91,10 +91,8 @@
       "website": "https://sites.google.com/a/hawaii.edu/uh-uas-projects/research/c-scope-hacking-mems-sesnors?pli=1",
       "startDate": "2018-01",
       "endDate": "Present",
-      "summary": "Assist in conducting experiments for drone research",
-      "highlights": [
-        ""
-      ]
+      "summary": "Assist in conducting experiments for MEMS sensor research",
+      
     },
     {
       "company": "Teddy's Bigger Burger",
